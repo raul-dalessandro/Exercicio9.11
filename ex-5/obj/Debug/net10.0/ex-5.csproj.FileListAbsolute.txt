@@ -1,0 +1,15 @@
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\bin\Debug\net10.0\ex-5.exe
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\bin\Debug\net10.0\ex-5.deps.json
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\bin\Debug\net10.0\ex-5.runtimeconfig.json
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\bin\Debug\net10.0\ex-5.dll
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\bin\Debug\net10.0\ex-5.pdb
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\obj\Debug\net10.0\ex-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\obj\Debug\net10.0\ex-5.AssemblyInfoInputs.cache
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\obj\Debug\net10.0\ex-5.AssemblyInfo.cs
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\obj\Debug\net10.0\ex-5.csproj.CoreCompileInputs.cache
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\obj\Debug\net10.0\ex-5.dll
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\obj\Debug\net10.0\refint\ex-5.dll
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\obj\Debug\net10.0\ex-5.pdb
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\obj\Debug\net10.0\ex-5.genruntimeconfig.cache
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\obj\Debug\net10.0\ref\ex-5.dll
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-5\obj\Debug\net10.0\ex-5.csproj.Up2Date
