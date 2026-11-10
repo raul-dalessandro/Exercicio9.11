@@ -7,8 +7,8 @@ Console.WriteLine("Digite seu peso em kg:");
 peso = double.Parse(Console.ReadLine());
 Console.WriteLine("Digite sua altura em cm:");
 altura = double.Parse(Console.ReadLine());
-altura = altura / 100;
-imc = peso / (altura *= altura);
+//altura = altura / 100;
+imc = peso / ((altura *= altura) /100);
 Console.WriteLine("Seu imc é: " + imc);
 
 if (imc < 18.5)

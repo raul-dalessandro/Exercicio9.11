@@ -13,3 +13,4 @@ C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-7\obj\Debug\net10.0\ex-7
 C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-7\obj\Debug\net10.0\ex-7.genruntimeconfig.cache
 C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-7\obj\Debug\net10.0\ref\ex-7.dll
 C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-7\obj\Debug\net10.0\ex-7.csproj.Up2Date
+C:\Users\RaulDalessandro\source\repos\Exercicios9.11\ex-7\obj\Debug\net10.0\ex-7.sourcelink.json

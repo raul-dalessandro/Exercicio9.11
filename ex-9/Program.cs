@@ -15,7 +15,7 @@ if(l1 + l2 > l3 && l1 + l3 > l2 && l2  + l3 > l1)
     {
         Console.WriteLine("É um triangulo equilátero!");
     }
-    else if ((l1 == l2 && l2 != l3) || (l2 == l3 && l3 != l1) || (l1 == l3 && l1 != l2))
+    else if (l1 == l2  || l2 == l3 || l1 == l3)
     {
         Console.WriteLine("É um triangulo isóceles!");
     }
@@ -27,5 +27,5 @@ if(l1 + l2 > l3 && l1 + l3 > l2 && l2  + l3 > l1)
 
 else
 {
-    Console.WriteLine("Digite numeros para um triangulo válido!");
+    Console.WriteLine("Digite números para um triangulo válido!");
 }
