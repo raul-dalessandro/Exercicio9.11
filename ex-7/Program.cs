@@ -1,4 +1,9 @@
-﻿double peso = 0;
+﻿//7) IMC
+//Escreva um programa que receba o peso em kg e a
+//altura em cm, calcule o IMC e, com base no
+//resultado, exiba a faixa correspondente.
+
+double peso = 0;
 double altura = 0;
 double imc = 0;
 Console.WriteLine("---------IMC---------");

@@ -1,4 +1,12 @@
-﻿double salario = 0;
+﻿//8) Aumento salarial
+//Escreva um programa que, com base no salário
+//informado, calcule o aumento salarial de acordo
+//com as regras a seguir:
+//Até 2000, aumento de 15%;
+//de 2000,01 até 4000, aumento de 10%;
+//acima de 4000, aumento de 5%.
+
+double salario = 0;
 Console.WriteLine("---------Salário---------");
 Console.WriteLine("-------------------------");
 Console.WriteLine("Digite seu salário:");

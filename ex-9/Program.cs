@@ -1,4 +1,10 @@
-﻿float l1 = 0;
+﻿//9) Tipo de triângulo
+//Escreva um programa que receba o valor dos 3 lados
+//de um triângulo e informe qual o tipo dele
+//(equilátero, isósceles ou escaleno). Os lados
+//informados DEVEM formar um triângulo.
+
+float l1 = 0;
 float l2 = 0;
 float l3 = 0;
 Console.WriteLine("---------Triangulo---------");

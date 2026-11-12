@@ -1,4 +1,12 @@
-﻿float n1 = 0;
+﻿//3) Média e status
+//Escreva um programa que receba 4 notas de um aluno,
+//calcule a média aritmética e informe o status
+//baseado nas seguintes condições:
+//Aprovado se a média for maior ou igual a 7,
+//recuperação se a média for entre 5,1 e 6,9
+//e reprovado se for menor ou igual a 5.
+
+float n1 = 0;
 float n2 = 0;
 float n3 = 0;
 float n4 = 0;

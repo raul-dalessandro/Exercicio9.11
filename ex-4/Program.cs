@@ -1,4 +1,8 @@
-﻿double a = 0;
+﻿//4) Operações básicas
+//Escreva um programa que receba dois números
+//e execute as 4 operações básicas.
+
+double a = 0;
 double b = 0;
 double c = 0;
 

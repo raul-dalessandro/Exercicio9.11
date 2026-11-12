@@ -1,4 +1,8 @@
-﻿int ano = 0;
+﻿//5) Ano bissexto
+//Escreva um programa que leia o ano informado
+//pelo usuário e mostre se foi ou é um ano bissexto.
+
+int ano = 0;
 
 Console.WriteLine("---------Ano Bissexto---------");
 Console.WriteLine("------------------------------");

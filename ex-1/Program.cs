@@ -1,4 +1,8 @@
-﻿int a = 0;
+﻿//1) Par ou ímpar
+//Escreva um programa que receba um número inteiro
+//e informe se ele é par ou ímpar.
+
+int a = 0;
 int b = 0;
 
 Console.WriteLine("---------Par ou ímpar---------");

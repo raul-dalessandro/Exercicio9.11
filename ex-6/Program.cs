@@ -1,4 +1,12 @@
-﻿int idade = 0;
+﻿//6) Faixa etária
+//Escreva um programa que leia a idade de uma pessoa
+//e classifique-a de acordo com as regras:
+//Criança até 12 anos,
+//Adolescente de 13 a 17,
+//Adulto de 18 a 59,
+//Idoso de 60 para cima.
+
+int idade = 0;
 
 Console.WriteLine("---------Idade---------");
 Console.WriteLine("-----------------------");
